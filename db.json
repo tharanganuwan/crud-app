@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Nuwan",
+      "lastName": "Kumara",
+      "email": "Nuwan@gmail.com",
+      "dob": "2023-03-08T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "celogen",
+      "experience": 2,
+      "package": 45000,
+      "id": 1
+    },
+    {
+      "firstName": "Nimal",
+      "lastName": "cahandana",
+      "email": "amal@agmail.com",
+      "dob": "2023-04-03T18:30:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "PHY",
+      "experience": 10,
+      "package": 85000,
+      "id": 2
+    }
+  ]
+}
